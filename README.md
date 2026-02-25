@@ -1,4 +1,9 @@
-# D VOI
-VOI tools and programs developed by myself
+# cnek's arch .dotfiles
 
-These tools should never be used unprofessionally, especially without consent.
+A collection of my personal configuration files for Arch Linux.
+
+#### Template
+I use @ [app](https://github.com/viktorsynek/arch.dotfiles/tree/main/app) .
+
+## LICENSE
+MIT License
