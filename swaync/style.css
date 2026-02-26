@@ -1,0 +1,62 @@
+* {
+    font-family: "JetBrains Mono";
+    font-size: 13px;
+}
+
+.notification-row {
+    outline: none;
+    margin: 10px;
+    padding: 0;
+}
+
+.notification {
+    background: #303446;
+    border: 2px solid #ca9ee6;
+    border-radius: 12px;
+    padding: 2px;
+    color: #c6d0f5;
+}
+
+.notification-content {
+    padding: 2px;
+}
+
+.summary {
+    font-weight: bold;
+    font-size: 14px;
+    color: #ca9ee6;
+}
+
+.body {
+    font-size: 12px;
+    color: #c6d0f5;
+}
+
+.app-name {
+    font-size: 11px;
+    color: #949cbb;
+}
+
+.time {
+    font-size: 11px;
+    color: #949cbb;
+}
+
+.close-button {
+    background: #e78284;
+    border-radius: 50%;
+    color: #303446;
+    padding: 2px;
+}
+
+.close-button:hover {
+    background: #ea999c;
+}
+
+.control-center {
+    background: #292c3c;
+    border: 2px solid #ca9ee6;
+    border-radius: 12px;
+    padding: 10px;
+    color: #c6d0f5;
+}
