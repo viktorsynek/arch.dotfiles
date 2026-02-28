@@ -1,0 +1,18 @@
+theme = Rose Pine Moon
+
+# bg
+background=#181c26
+background-opacity = 0.90
+
+# fg
+font-size=16
+font-thicken=true
+font-thicken-strength=20
+font-feature = -calt
+font-feature = -dlig
+
+# other
+mouse-scroll-multiplier = 0.5
+shell-integration-features = no-cursor
+copy-on-select = clipboard
+
