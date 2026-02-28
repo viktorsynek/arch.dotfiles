@@ -4,35 +4,6 @@ A collection of my personal configuration files for Arch Linux.
 ## Preview
 ![img](https://cdn.discordapp.com/attachments/1474446544861397227/1477297047794090159/image.png?ex=69a43f97&is=69a2ee17&hm=d923a0c7cba1589920f9daf2dc752e38b3c546ba89d174f98257291b9b5f9959&)
 
-#### OS
-I use Arch Linux as my primary OS, dual booting with Windows 10.
-
-#### Window Manager
-I use Hyprland as my Wayland compositor, config @ [hypr](https://github.com/viktorsynek/arch.dotfiles/tree/main/hypr) directory.
-
-#### Bar
-I use Waybar as my status bar, config @ [waybar](https://github.com/viktorsynek/arch.dotfiles/tree/main/waybar) directory.
-
-#### Terminal
-I use Ghostty as my terminal emulator.
-I use the zsh shell with oh-my-zsh and Powerlevel10k, config @ [.zshrc](https://github.com/viktorsynek/arch.dotfiles/blob/main/.zshrc).
-I also use tmux for terminal multiplexing, config @ [.tmux.conf](https://github.com/viktorsynek/arch.dotfiles/blob/main/.tmux.conf).
-
-#### Notifications
-I use SwayNC for notifications, config @ [swaync](https://github.com/viktorsynek/arch.dotfiles/tree/main/swaync) directory.
-
-#### App Launcher
-I use Rofi as my application launcher, config @ [rofi](https://github.com/viktorsynek/arch.dotfiles/tree/main/rofi) directory.
-
-#### Fetch
-I use Fastfetch for system info, config @ [fastfetch](https://github.com/viktorsynek/arch.dotfiles/tree/main/fastfetch) directory.
-
-#### Lock Screen
-I use Hyprlock as my lock screen, config @ [hypr](https://github.com/viktorsynek/arch.dotfiles/tree/main/hypr) directory.
-
-#### Keyboard
-I use ZSA Moonlander, keyboard layout @ [moonlander](https://github.com/viktorsynek/.dotfiles/tree/main/moonlander) directory.
-
 #### Theming
 - GTK: Arc-Dark
 - Notifications / Lock Screen: Catppuccin Frappé
