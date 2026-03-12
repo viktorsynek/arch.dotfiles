@@ -2,9 +2,9 @@
 A collection of my personal configuration files for Arch Linux.
 
 ## Preview
-![img](https://github.com/viktorsynek/arch.dotfiles/blob/eaf965d6a3dd51a89f1b8c926170902ea853126c/Pictures/preview/pv1.png)
-![img](https://github.com/viktorsynek/arch.dotfiles/blob/eaf965d6a3dd51a89f1b8c926170902ea853126c/Pictures/preview/pv2.png)
-![img](https://github.com/viktorsynek/arch.dotfiles/blob/eaf965d6a3dd51a89f1b8c926170902ea853126c/Pictures/preview/pv3.png)
+![img](https://github.com/viktorsynek/arch.dotfiles/blob/b18f0b71c5ec87535759167194c80778d216312a/Pictures/preview/pv1.png)
+![img](https://github.com/viktorsynek/arch.dotfiles/blob/b18f0b71c5ec87535759167194c80778d216312a/Pictures/preview/pv2.png)
+![img](https://github.com/viktorsynek/arch.dotfiles/blob/b18f0b71c5ec87535759167194c80778d216312a/Pictures/preview/pv3.png)
 
 #### Theming
 - GTK: Arc-Dark
